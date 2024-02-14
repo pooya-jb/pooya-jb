@@ -1,8 +1,8 @@
 <h2>Hi, I'm Pooya. Welcome to my  GitHub 👋</h1>
 <h3>A passionate full stack developer in Berlin</h3>
-* 👨🏻‍💻 I'm a versatile full-stack developer with expertise in JavaScript/TypeScript, Node.js, and React, adept at crafting robust and scalable web applications.
-* 🌱 I'm always eager to explore new technologies and expand my skill set.</li>
-* ✉️ Feeel free to reach out to me via email [jb.pooya@gmail.com](mailto:jb.pooya@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/pooya-jafariberenji)
+- 👨🏻‍💻 I'm a versatile full-stack developer with expertise in JavaScript/TypeScript, Node.js, and React, adept at crafting robust and scalable web applications.
+- 🌱 I'm always eager to explore new technologies and expand my skill set.</li>
+- ✉️ Feeel free to reach out to me via email [jb.pooya@gmail.com](mailto:jb.pooya@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/pooya-jafariberenji)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
