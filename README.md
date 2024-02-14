@@ -1,6 +1,6 @@
 # Hi, I'm Pooya. Welcome to my GitHub! 👋
 
-## A passionate full stack developer in Berlin
+### A passionate developer in Berlin
 
 - 👨🏻‍💻 I'm a versatile full-stack developer with expertise in JavaScript/TypeScript, Node.js, and React, adept at crafting robust and scalable web applications.
 - 🌱 I'm always eager to explore new technologies and expand my skill set.
