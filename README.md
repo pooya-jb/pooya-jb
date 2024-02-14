@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pooya.</h1>
-<h3 align="center">A passionate frontend developer in Berlin</h3>
+<h2>Hi 👋, I'm Pooya.</h1>
+<h3 align="center">A passionate full stack developer in Berlin</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
